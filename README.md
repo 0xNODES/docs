@@ -11,5 +11,7 @@
 
 ## Starting on 0xNODES
 
-1. A MetaMask wallet, learn how to set one up [here](getting-started/blockchain-networks.md).
+To use the 0xNODES system, you must have:
+
+1. A MetaMask wallet, learn how to set one up [here](getting-started/connecting.md).
 2. Native tokens for gas and staking on the chain you choose to use. That means if you want to use 0xNODES on Ethereum you will need ETH, on Polygon you will need MATIC, etc.

@@ -4,16 +4,16 @@
 
 ## Getting Started
 
-* [Wallet](getting-started/wallet.md)
-* [Creating your first task](getting-started/creating-your-first-task.md)
+* [Connecting](getting-started/connecting.md)
 * [Blockchain Networks](getting-started/blockchain-networks.md)
+* [Earning Rewards](getting-started/earning-rewards.md)
 
-## Fundamentals
+## Yield Farming
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Native Strategies](yield-farming/native-strategies.md)
+* [BIOS PFA](yield-farming/bios-pfa.md)
+* [Liquidity Providing](yield-farming/liquidity-providing.md)
+* [Cross Chain](yield-farming/cross-chain.md)
 
 ## Use Cases
 
@@ -28,7 +28,7 @@
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
 
-## Group 1
+## Contracts
 
-* [Kernel Addresses](group-1/kernel-addresses.md)
-* [Other Contracts](group-1/other-contracts.md)
+* [Kernel Addresses](contracts/kernel-addresses.md)
+* [Other Contracts](contracts/other-contracts.md)
