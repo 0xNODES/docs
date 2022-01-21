@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 
-## Guides
+## Getting Started
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Wallet](getting-started/wallet.md)
+* [Creating your first task](getting-started/creating-your-first-task.md)
+* [Blockchain Networks](getting-started/blockchain-networks.md)
 
 ## Fundamentals
 
