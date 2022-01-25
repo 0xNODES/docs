@@ -1,6 +1,6 @@
 # Earning Rewards
 
-At its core, 0xNODES is a yield farming protocol. You deposit your assets into the system and can choose from various methods of earning rewards.
+At its core, 0xNODES is a cross chain yield aggregation protocol. You deposit your assets into the system and can choose from various methods of earning rewards.
 
 {% content-ref url="../fundamentals/projects.md" %}
 [projects.md](../fundamentals/projects.md)
