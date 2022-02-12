@@ -10,8 +10,8 @@ At its core, 0xNODES is a cross chain yield aggregation protocol. You deposit yo
 [pfa.md](../yield-farming/pfa.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../yield-farming/providing-liquidity.md" %}
+[providing-liquidity.md](../yield-farming/providing-liquidity.md)
 {% endcontent-ref %}
 
 {% content-ref url="../yield-farming/cross-chain.md" %}
