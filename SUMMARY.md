@@ -4,18 +4,24 @@
 
 ## Getting Started
 
-* [Connecting](getting-started/wallet.md)
+* [Connecting](getting-started/connecting.md)
 * [Blockchain Networks](getting-started/blockchain-networks.md)
 * [Earning Rewards](getting-started/earning-rewards.md)
 
 ## Yield Farming
 
-* [Native Strategies](fundamentals/projects.md)
-* [BIOS PFA](fundamentals/members.md)
-* [Liquidity Providing](fundamentals/task-lists.md)
-* [Cross Chain](fundamentals/tasks.md)
+* [Native Strategies](yield-farming/native-strategies.md)
+* [BIOS PFA](yield-farming/pfa.md)
+* [Providing Liquidity](yield-farming/providing-liquidity.md)
+* [Cross Chain](yield-farming/cross-chain.md)
 
 ## Contracts
 
-* [Kernel Addresses](group-1/kernel-addresses.md)
-* [Other Contracts](group-1/other-contracts.md)
+* [Kernel Addresses](contracts/kernel-addresses.md)
+* [Other Contracts](contracts/other-contracts.md)
+
+## Moving BIOS Between Chains
+
+* [How to move your BIOS to the Fantom Network](guides/how-to-move-your-bios-to-the-fantom-network.md)
+* [How to move your BIOS to the Avalanche Network](guides/how-to-move-your-bios-to-the-avalanche-network.md)
+* [How to move your BIOS to the Binance Smart Chain(BSC) Network](guides/how-to-move-your-bios-to-the-binance-smart-chain-bsc-network.md)
