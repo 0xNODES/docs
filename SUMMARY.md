@@ -1,21 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+## Moving BIOS between chains
 
-## Getting Started
-
-* [Connecting](getting-started/wallet.md)
-* [Blockchain Networks](getting-started/blockchain-networks.md)
-* [Earning Rewards](getting-started/earning-rewards.md)
-
-## Yield Farming
-
-* [Native Strategies](fundamentals/projects.md)
-* [BIOS PFA](fundamentals/members.md)
-* [Liquidity Providing](fundamentals/task-lists.md)
-* [Cross Chain](fundamentals/tasks.md)
-
-## Contracts
-
-* [Kernel Addresses](group-1/kernel-addresses.md)
-* [Other Contracts](group-1/other-contracts.md)
+* [How to move your BIOS to the Fantom Network](README.md)
+* [How to move your BIOS to the Avalanche Network](moving-bios-between-chains/how-to-move-your-bios-to-the-avalanche-network.md)
+* [How to move your BIOS to the Binance Smart Chain(BSC) Network](moving-bios-between-chains/how-to-move-your-bios-to-the-binance-smart-chain-bsc-network.md)
