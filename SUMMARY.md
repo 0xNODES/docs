@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Connecting](getting-started/connecting.md)
+* [Connecting](getting-started/wallet.md)
 * [Blockchain Networks](getting-started/blockchain-networks.md)
 * [Earning Rewards](getting-started/earning-rewards.md)
 

@@ -2,18 +2,18 @@
 
 At its core, 0xNODES is a cross chain yield aggregation protocol. You deposit your assets into the system and can choose from various methods of earning rewards.
 
-{% content-ref url="../fundamentals/projects.md" %}
-[projects.md](../fundamentals/projects.md)
+{% content-ref url="../yield-farming/native-strategies.md" %}
+[native-strategies.md](../yield-farming/native-strategies.md)
 {% endcontent-ref %}
 
-{% content-ref url="../fundamentals/members.md" %}
-[members.md](../fundamentals/members.md)
+{% content-ref url="../yield-farming/pfa.md" %}
+[pfa.md](../yield-farming/pfa.md)
 {% endcontent-ref %}
 
-{% content-ref url="../fundamentals/task-lists.md" %}
-[task-lists.md](../fundamentals/task-lists.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../fundamentals/tasks.md" %}
-[tasks.md](../fundamentals/tasks.md)
+{% content-ref url="../yield-farming/cross-chain.md" %}
+[cross-chain.md](../yield-farming/cross-chain.md)
 {% endcontent-ref %}
