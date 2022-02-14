@@ -22,6 +22,7 @@
 
 ## Moving BIOS Between Chains
 
+* [How to move your BIOS to the Polygon Network](moving-bios-between-chains/how-to-move-your-bios-to-the-polygon-network.md)
 * [How to move your BIOS to the Fantom Network](moving-bios-between-chains/how-to-move-your-bios-to-the-fantom-network.md)
 * [How to move your BIOS to the Avalanche Network](moving-bios-between-chains/how-to-move-your-bios-to-the-avalanche-network.md)
 * [How to move your BIOS to the Binance Smart Chain(BSC) Network](moving-bios-between-chains/how-to-move-your-bios-to-the-binance-smart-chain-bsc-network.md)
