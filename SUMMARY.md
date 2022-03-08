@@ -15,6 +15,10 @@
 * [Providing Liquidity](yield-farming/providing-liquidity.md)
 * [Cross Chain](yield-farming/cross-chain.md)
 
+## SUBGRAPHS
+
+* [0xNODES subgraphs](subgraphs/0xnodes-subgraphs.md)
+
 ## Contracts
 
 * [Kernel Addresses](contracts/kernel-addresses.md)
