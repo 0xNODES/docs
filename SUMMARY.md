@@ -17,7 +17,7 @@
 
 ## SUBGRAPHS
 
-* [0xNODES subgraphs](subgraphs/0xnodes-subgraphs.md)
+* [0xNODES Subgraphs](subgraphs/0xnodes-subgraphs.md)
 
 ## Contracts
 
