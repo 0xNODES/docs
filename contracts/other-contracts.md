@@ -24,7 +24,7 @@
 | BIOS token                  | [0x75e0eB8e6d92ab832bB11E46c041D06a89aC5F0D](https://ftmscan.com/address/0x75e0eb8e6d92ab832bb11e46c041d06a89ac5f0d) |
 | SpiritSwap Standard Farms   | [0xA1C4f95218ad0F488B9c15489AEfAa8e69FA418c](https://ftmscan.com/address/0xA1C4f95218ad0F488B9c15489AEfAa8e69FA418c) |
 | SpiritSwap Standard Farms-A | [0x4E19099cB5674cd94f3e75f978Fa587552EC19aD](https://ftmscan.com/address/0x4E19099cB5674cd94f3e75f978Fa587552EC19aD) |
-| SpiritSwap Boosted Farms    |                                                                                                                      |
+| SpiritSwap Boosted Farms    | Contracts are deployed, docs coming soon...                                                                          |
 
 ### Avalanche
 
@@ -39,9 +39,6 @@
 | ----------------- | -------------------------------------------------------------------------------------------------------------------- |
 | BIOS token        | [0xCF87d3d50A98A7832f5CfdF99aE1B88C7cFbA4a7](https://bscscan.com/address/0xcf87d3d50a98a7832f5cfdf99ae1b88c7cfba4a7) |
 | PancakeSwap Farms | Contracts are deployed, docs coming soon...                                                                          |
-|                   |                                                                                                                      |
-
-Contracts are deployed, docs coming soon...
 
 ### Arbitrum
 
@@ -50,3 +47,4 @@ coming soon...
 ### Metis Andromeda
 
 coming soon...
+
