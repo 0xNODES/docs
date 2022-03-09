@@ -16,7 +16,7 @@
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | BIOS token                       | [0xe20D2Df5041f8Ed06976846470f727295cDd4D23](https://polygonscan.com/address/0xe20d2df5041f8ed06976846470f727295cdd4d23) |
 | User Positions                   | [0x7CD26A6E400b22d5853c5Bc77CBD9A149C997068](https://polygonscan.com/address/0x7CD26A6E400b22d5853c5Bc77CBD9A149C997068) |
-| Integration: QuickSwap LP Mining | Contracts are deployed, docs coming soon...                                                                              |
+| Integration: QuickSwap LP Mining | [0xDD5b7BCe81D9234257Fb0675F1DC1b2d20bC7148](https://polygonscan.com/address/0xDD5b7BCe81D9234257Fb0675F1DC1b2d20bC7148) |
 
 ### Fantom
 
@@ -26,7 +26,7 @@
 | User Positions                           | [0xd4fACFe974B8b4C2e5BD8020B1dcc8C4C6459014](https://ftmscan.com/address/0xd4facfe974b8b4c2e5bd8020b1dcc8c4c6459014) |
 | Integration: SpiritSwap Standard Farms   | [0xA1C4f95218ad0F488B9c15489AEfAa8e69FA418c](https://ftmscan.com/address/0xA1C4f95218ad0F488B9c15489AEfAa8e69FA418c) |
 | Integration: SpiritSwap Standard Farms-A | [0x4E19099cB5674cd94f3e75f978Fa587552EC19aD](https://ftmscan.com/address/0x4E19099cB5674cd94f3e75f978Fa587552EC19aD) |
-| Integration: SpiritSwap Boosted Farms    | Contracts are deployed, docs coming soon...                                                                          |
+| Integration: SpiritSwap Boosted Farms    | [0x89B6a66480E003B4C46F6F3ff5081A509D6a256E](https://ftmscan.com/address/0x89B6a66480E003B4C46F6F3ff5081A509D6a256E) |
 
 ### Avalanche
 
@@ -34,21 +34,20 @@
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | BIOS token                    | [0xd7783a275E53FC6746dEDfbAD4a06059937502A4](https://snowtrace.io/address/0xd7783a275e53fc6746dedfbad4a06059937502a4) |
 | User Positions                | [0x363Da5aDd8047fbFeB56bceDB886c13CD4e54A85](https://snowtrace.io/address/0x363da5add8047fbfeb56bcedb886c13cd4e54a85) |
-| Integration: Trader Joe Farms | Contracts are deployed, docs coming soon...                                                                           |
+| Integration: Trader Joe Farms | [0xB47f1039F832e040822Deb0e8B1f024b2b3ddC5C](https://snowtrace.io/address/0xB47f1039F832e040822Deb0e8B1f024b2b3ddC5C) |
 
 ### Binance Smart Chain
 
-| Contract                       | Address                                                                                                              |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| BIOS token                     | [0xCF87d3d50A98A7832f5CfdF99aE1B88C7cFbA4a7](https://bscscan.com/address/0xcf87d3d50a98a7832f5cfdf99ae1b88c7cfba4a7) |
-| User Positions                 | [0xe1B683F9B17F1a05a9f6F7AcC1D715184a831658](https://bscscan.com/address/0xe1B683F9B17F1a05a9f6F7AcC1D715184a831658) |
-| Integration: PancakeSwap Farms | Contracts are deployed, docs coming soon...                                                                          |
+| Contract                       | Address                                                                                                                    |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| BIOS token                     | [0xCF87d3d50A98A7832f5CfdF99aE1B88C7cFbA4a7](https://bscscan.com/address/0xcf87d3d50a98a7832f5cfdf99ae1b88c7cfba4a7)       |
+| User Positions                 | [0xe1B683F9B17F1a05a9f6F7AcC1D715184a831658](https://bscscan.com/address/0xe1B683F9B17F1a05a9f6F7AcC1D715184a831658)       |
+| Integration: PancakeSwap Farms | ``[`0x06f4d89b02ddC48D1285F6DdEde980cBC234058D`](https://bscscan.com/address/0x06f4d89b02ddC48D1285F6DdEde980cBC234058D)`` |
 
-### Metis Andromeda
+### Metis Andromeda&#x20;
 
 | Contract            | Address                                                                                                                                            |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kernel              | [0xa1DA47F6563e7B17075FcA61DeDC4622aE2F3912](https://andromeda-explorer.metis.io/address/0xa1DA47F6563e7B17075FcA61DeDC4622aE2F3912/transactions)  |
 | BIOS token          | [0x3405A1bd46B85c5C029483FbECf2F3E611026e45](https://andromeda-explorer.metis.io/token/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/token-transfers) |
 | User Positions      | [0x2a5352C810D0C1cC1e907Db0552459B46a82433B](https://andromeda-explorer.metis.io/address/0x2a5352C810D0C1cC1e907Db0552459B46a82433B/transactions)  |
 | Integration: Hermes | Contracts are being activated, docs coming soon...                                                                                                 |
