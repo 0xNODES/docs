@@ -18,3 +18,5 @@ Instructions for querying subgraphs are available in TheGraph's [documentation](
 
 [Fantom 0x\_Nodes System11 Subgraph](https://thegraph.com/hosted-service/subgraph/0xnodes/system11-fantom)
 
+[Metis 0x\_Nodes System11 Subgraph](https://andromeda-graph.metis.io/subgraphs/name/0xnodes/System11-metis)
+
