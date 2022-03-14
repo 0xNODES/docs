@@ -1,10 +1,10 @@
-# BIOS Protocol Fee Accrual (PFA)
+# Yield Distribution
 
 {% hint style="info" %}
 We're still working on this page. More coming soon!
 {% endhint %}
 
-Yield in System11 is disutributed according to the values set in the YieldManager contract.
+Yield in System11 is distributed according to the values set in the YieldManager contract.
 
 You can read the current values from the ABI method: getEthDistributionWeights
 
