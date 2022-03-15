@@ -52,7 +52,7 @@ To see your BIOS in MetaMask you need to do two things.  First, the Polygon netw
 
 Next you need to add information about the BIOS token to MetaMask’s Polygon’s network.  Switch MetaMask to Polygon, then click Import Tokens.
 
-![](<../.gitbook/assets/metamask-import-token (1).png>)
+![](../.gitbook/assets/metamask-import-token.png)
 
 Paste in the Polygon BIOS contract address below and MetaMask will pick up the rest of the details.
 

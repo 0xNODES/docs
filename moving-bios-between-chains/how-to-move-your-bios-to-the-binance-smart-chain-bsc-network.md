@@ -50,7 +50,7 @@ To see your BIOS in MetaMask you need to do two things. First, the BSC network m
 
 Next you need to add information about the BIOS token to MetaMask’s BSC network. Switch MetaMask to BSC then click Import Tokens.
 
-![](../.gitbook/assets/metamask-import-token.png)
+![](<../.gitbook/assets/metamask-import-token (1).png>)
 
 Paste in the BSC BIOS contract address below and MetaMask will pick up the rest of the details
 

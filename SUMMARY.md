@@ -10,10 +10,11 @@
 
 ## Yield Farming
 
-* [Native Strategies](yield-farming/native-strategies.md)
-* [BIOS PFA](yield-farming/pfa.md)
+* [0xNODES Strategies: Earn Native Assets](yield-farming/native-strategies.md)
+* [Stake BIOS: Earn Native Assets](yield-farming/pfa.md)
 * [Providing Liquidity](yield-farming/providing-liquidity.md)
-* [Cross Chain](yield-farming/cross-chain.md)
+* [Yield Distribution](yield-farming/yield-distribution.md)
+* [0x\_NODES is Cross Chain](yield-farming/cross-chain.md)
 
 ## SUBGRAPHS
 

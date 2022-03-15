@@ -1,21 +1,11 @@
 # Yield Distribution
 
-{% hint style="info" %}
-We're still working on this page. More coming soon!
-{% endhint %}
+New native asset rewards, earned from providing liquidity to a strategy or staking BIOS, are distributed to the user every time yield is harvested from the [0x\_NODES Strategies](native-strategies.md). Users manage their rewarded yield through the [0xNODES website](https://system11.0xnodes.io) (i.e., view yield, claim/withdrawal yield, or enter yield into a strategy).
 
-Yield in System11 is distributed according to the values set in the YieldManager contract.
+The 0x\_NODES yield harvester is the protocol that distributes rewards to users as claimable native assets. To liquidate yield the protocol periodically harvests funds deployed into high-performing pools by [0xNODES Strategies](native-strategies.md)_._ The protocol updates the annual percentage rate (APR) for each strategy on the __ [0xNODES website](https://system11.0xnodes.io) and [0x\_NODES subgraphs](../subgraphs/0xnodes-subgraphs.md).
 
-You can read the current values from the ABI method: getEthDistributionWeights
+The protocol distributes yield into four proportions, based on distribution weights set in the YieldManager contract:
 
-There are four variables in the distribution weights. The YieldManager will sum the weights and divide the yield according to the proportions:
+Strategy Rewards: % of yield distributed to the holders of a given strategy, in the form of native assets. Users who deposit native assets into strategies receive the largest proportion of the yield. BIOS Protocol Fee Accrual (PFA): % of yield distributed to $BIOS stakers on the current chain, in the form of native assets. BIOS buyback: % of yield used to the market buy of $BIOS Treasury Account: % of yield used to cover gas for system transactions, future development and maintenance of the platform, and investment losses so users can withdraw their full principal.
 
- - BIOS buyback: L1 asset directly applied to market buy of $BIOS
- - Treasury Account: L1 asset transferred to treasury account. This is used to fund gas for system transactions
- - PFA: L1 asset transferred into EtherRewards contract for distribution to $BIOS stakers (on current chain)
- - Strategy Rewards: L1 asset distributed to the holders of Strategy positions
-
-BIOS buyback is typically set to 0.
-Treasury Account is set to a minimal value per chain, so on ETH Mainnet it can be large, while a less-expensive chain will have a lower value (~1%).
-PFA is typically set to 11%
-Strategy Rewards takes the remainder, usually 88%.
+Distribution weights vary based on market conditions; users can view current weights by querying the getEthDistributionWeights ABI methods of the chain's [YieldDistribution contract](../contracts/other-contracts.md). Typically, strategy rewards are approximately 88%, the BIOS PFA rewards are approximately 11%, BIOS buyback is <1%, and the Treasury Account is set to a minimal value on a chain-by-chain basis, often ranging from 1-5 (Ethereum often has a higher Treasury Account % than other chains due to the high gas fees involved).

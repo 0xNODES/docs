@@ -50,7 +50,7 @@ To see your BIOS in MetaMask you need to do two things. First, the Avalanche net
 
 Next you need to add information about the BIOS token to MetaMask’s Avalanche network. Switch MetaMask to Avalanche then click Import Tokens.
 
-![](../.gitbook/assets/metamask-import-token.png)
+![](<../.gitbook/assets/metamask-import-token (1).png>)
 
 Paste in the Avalanche BIOS contract address below and MetaMask will pick up the rest of the details
 
