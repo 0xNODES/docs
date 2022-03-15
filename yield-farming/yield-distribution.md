@@ -2,7 +2,7 @@
 
 New native asset rewards, earned from providing liquidity to a strategy or staking BIOS, are distributed to the user every time yield is harvested from the [0xNODES Strategies](native-strategies.md). Users manage their rewarded yield through the [0xNODES website](https://system11.0xnodes.io) (i.e., view yield, claim/withdrawal yield, or enter yield into a strategy).
 
-The 0xNODES yield harvester is the protocol that distributes rewards to users as claimable native assets. To liquidate yield the protocol periodically harvests funds deployed into high-performing pools by [0xNODES Strategies](native-strategies.md)_._ The protocol updates the annual percentage rate (APR) for each strategy on the __ [0xNODES website](https://system11.0xnodes.io) and [0x\_NODES subgraphs](../subgraphs/0xnodes-subgraphs.md).
+The 0xNODES yield harvester is the protocol that distributes rewards to users as claimable native assets. To liquidate yield the protocol periodically harvests funds deployed into high-performing pools by [0xNODES Strategies](native-strategies.md)_._ The protocol updates the annual percentage rate (APR) for each strategy on the __ [0xNODES website](https://system11.0xnodes.io) and [0xNODES subgraphs](../subgraphs/0xnodes-subgraphs.md).
 
 ![](<../.gitbook/assets/yield harvest.png>)
 
