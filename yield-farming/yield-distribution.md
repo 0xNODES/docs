@@ -4,6 +4,8 @@ New native asset rewards, earned from providing liquidity to a strategy or staki
 
 The 0x\_NODES yield harvester is the protocol that distributes rewards to users as claimable native assets. To liquidate yield the protocol periodically harvests funds deployed into high-performing pools by [0xNODES Strategies](native-strategies.md)_._ The protocol updates the annual percentage rate (APR) for each strategy on the __ [0xNODES website](https://system11.0xnodes.io) and [0x\_NODES subgraphs](../subgraphs/0xnodes-subgraphs.md).
 
+![](<../.gitbook/assets/yield harvest.png>)
+
 The protocol distributes yield into four proportions, based on distribution weights set in the YieldManager contract:
 
 1. Strategy Rewards: % of yield distributed to the holders of a given strategy, in the form of native assets. Users who deposit native assets into strategies receive the largest proportion of the yield.
