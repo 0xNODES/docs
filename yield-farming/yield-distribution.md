@@ -6,6 +6,9 @@ The 0x\_NODES yield harvester is the protocol that distributes rewards to users 
 
 The protocol distributes yield into four proportions, based on distribution weights set in the YieldManager contract:
 
-Strategy Rewards: % of yield distributed to the holders of a given strategy, in the form of native assets. Users who deposit native assets into strategies receive the largest proportion of the yield. BIOS Protocol Fee Accrual (PFA): % of yield distributed to $BIOS stakers on the current chain, in the form of native assets. BIOS buyback: % of yield used to the market buy of $BIOS Treasury Account: % of yield used to cover gas for system transactions, future development and maintenance of the platform, and investment losses so users can withdraw their full principal.
+1. Strategy Rewards: % of yield distributed to the holders of a given strategy, in the form of native assets. Users who deposit native assets into strategies receive the largest proportion of the yield.
+2. BIOS Protocol Fee Accrual (PFA): % of yield distributed to $BIOS stakers on the current chain, in the form of native assets.
+3. BIOS buyback: % of yield used to the market buy of $BIOS&#x20;
+4. Treasury Account: % of yield used to cover gas for system transactions, future development and maintenance of the platform, and investment losses so users can withdraw their full principal.
 
 Distribution weights vary based on market conditions; users can view current weights by querying the getEthDistributionWeights ABI methods of the chain's [YieldDistribution contract](../contracts/other-contracts.md). Typically, strategy rewards are approximately 88%, the BIOS PFA rewards are approximately 11%, BIOS buyback is <1%, and the Treasury Account is set to a minimal value on a chain-by-chain basis, often ranging from 1-5 (Ethereum often has a higher Treasury Account % than other chains due to the high gas fees involved).
