@@ -4,7 +4,11 @@ description: Liquidity is Deployed into 0xNODES Strategies
 
 # Providing Liquidity
 
-Users provide liquidity on the 0xNODES platform by entering a Strategy. Users first need to deposit the native asset (e.g., ETH on Ethereum) into the system, often referred to as depositing into the kernel. Next, users invest by selecting and entering a strategy. Once a user has entered a strategy, the system takes care of the rest. Withdrawing funds is the opposite of entering a strategy. The user removes funds from the strategy (principal) and then withdraws funds from the kernel account into the user’s wallet (principal and yield).
+Providing liquidity in the form of native assets on the 0xNODES platform will earn you native asset rewards. In addition to these rewards, you will be able to withdraw your full principal.
+
+0xNODES has one or more investment [strategies](native-strategies.md) available on each chain. Browse the available strategies on the [system11.0xnodes.io](https://system11.0xnodes.io) website to select a strategy to invest in. Note that each strategy is chain-specific, meaning that it accepts the chain’s native assets and rewards the chain’s native asset.
+
+To enter a strategy and earn rewards, connect your wallet to the chain on which the strategy resides. Deposit your native assets into the 0xNODES kernel. Next, invest by selecting and entering the strategy. Once you enter strategy, the system takes care of the rest. Yield builds and your rewards will be updated every time the 0xNODES platform performs a [yield harvest](yield-harvest-and-distribution.md). Your principal and any yield can later be withdrawn \[link to withdrawing section]].
 
 ![0x\_NODES Strategies: Deposit Native Assets, Earn Native Assets](<../.gitbook/assets/asset flow.png>)
 
