@@ -8,14 +8,14 @@
 * [Blockchain Networks](getting-started/blockchain-networks.md)
 * [Earning Rewards](getting-started/earning-rewards.md)
 
-## Yield Farming
+## Yield Farming: Earn Native Assets
 
-* [Stake BIOS: Earn Native Assets](yield-farming/pfa.md)
-* [Yield Harvest and Distribution](yield-farming/yield-harvest-and-distribution.md)
-* [0x\_NODES is Cross Chain](yield-farming/cross-chain.md)
-* [0xNODES Strategies: Earn Native Assets](yield-farming/native-strategies.md)
-* [Providing Liquidity](yield-farming/providing-liquidity.md)
-* [Withdrawing Funds](yield-farming/withdrawing-funds.md)
+* [How To Stake BIOS](yield-farming-earn-native-assets/pfa.md)
+* [More About 0xNODES Strategies](yield-farming-earn-native-assets/native-strategies.md)
+* [How To Withdraw Funds](yield-farming-earn-native-assets/how-to-withdraw-funds.md)
+* [Yield Harvest and Distribution](yield-farming-earn-native-assets/yield-harvest-and-distribution.md)
+* [0xNODES is Cross Chain](yield-farming-earn-native-assets/cross-chain.md)
+* [How To Provide Liquidity To 0xNODES Strategies](yield-farming-earn-native-assets/providing-liquidity.md)
 
 ## SUBGRAPHS
 

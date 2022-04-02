@@ -1,8 +1,8 @@
 ---
-description: Provide Liquidity in the form of Native Assets to Earn Native Assets
+description: Provide Native Assets to Strategies to Earn Native Assets
 ---
 
-# 0xNODES Strategies: Earn Native Assets
+# More About 0xNODES Strategies
 
 On 0xNODES, users provide liquidity in the form of the native asset to earn native asset rewards. For example, an Ethereum user stakes ETH (or WETH) and earns ETH rewards.
 
