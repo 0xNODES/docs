@@ -19,3 +19,5 @@ Fantom: [https://www.fantom.foundation/get-started/](https://www.fantom.foundati
 Avalanche: [https://docs.avax.network/learn/getting-started/](https://docs.avax.network/learn/getting-started/)
 
 Binance Smart Chain: [https://academy.binance.com/en/articles/how-to-get-started-with-binance-smart-chain-bsc](https://academy.binance.com/en/articles/how-to-get-started-with-binance-smart-chain-bsc)
+
+Metis Andromeda: [https://www.metis.io/](https://www.metis.io)
