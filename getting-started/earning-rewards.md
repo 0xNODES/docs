@@ -15,9 +15,9 @@ To stake BIOS, follow these steps:
 2. Click the Deposit button on [system11.0xnodes.io](https://system11.0xnodes.io), specify your deposit amount, and approve access to your $BIOS.&#x20;
 3. Finally, deposit the $BIOS into the kernel. You will now earn new rewards every time the 0xNODES protocol processes yield.&#x20;
 
-### Quick Start: Providing Liquidity
+### Quick Start: Providing Liquidity to 0xNODES Strategies
 
-Deposit native assets on the 0xNODES platform to earn native asset rewards without risks of impermanent loss. For example, deposit ETH into a strategy and you will get back your full principal plus rewards in ETH.
+Deposit native assets into an 0xNODES strategy to earn native asset rewards without risks of impermanent loss. For example, deposit ETH into a strategy and you will get back your full principal plus rewards in ETH.
 
 To provide liquidity, follow these steps:
 
