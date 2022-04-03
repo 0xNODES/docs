@@ -1,7 +1,5 @@
 # How to Earn Rewards
 
-At its core, 0xNODES is a cross chain yield aggregation protocol. You deposit your assets into the system and can choose from various methods of earning rewards.
-
 To earn rewards, do one or both of the following:
 
 1. Stake the $BIOS token on the 0xNODES platform
