@@ -4,7 +4,7 @@ Providing liquidity in the form of native assets on the 0xNODES platform will ea
 
 0xNODES has one or more investment [strategies](native-strategies.md) available on each chain. Browse the available strategies on the [system11.0xnodes.io](https://system11.0xnodes.io) website to select a strategy to invest in. Note that each strategy is chain-specific, meaning that it accepts the chain’s native assets and rewards the chain’s native asset.
 
-To enter a strategy and earn rewards, connect your wallet to the chain on which the strategy resides. Deposit your native assets into the 0xNODES kernel. Next, invest by selecting and entering the strategy. Once you enter strategy, the system takes care of the rest. Yield builds and your rewards will be updated every time the 0xNODES platform performs a [yield harvest](yield-harvest-and-distribution.md). Your principal and any yield can later be [withdrawn](how-to-withdraw-funds.md).
+To enter a strategy and earn rewards, connect your wallet to the chain on which the strategy resides. Deposit your native assets into the 0xNODES kernel. Next, invest by selecting and entering the strategy. Once you enter strategy, the system takes care of the rest. Yield builds and your rewards will be updated every time the 0xNODES platform performs a [yield harvest](yield-harvest-and-distribution.md). Your principal and any yield can later be [withdrawn](../getting-started/how-to-withdraw-funds.md).
 
 ![Asset flow diagram showing the deposit of funds into the kernel, entering a strategy, exiting a strategy, and withdrawing funds to the user wallet.](<../.gitbook/assets/asset flow.png>)
 

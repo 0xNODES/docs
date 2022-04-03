@@ -6,16 +6,15 @@
 
 * [Connecting](getting-started/wallet.md)
 * [Blockchain Networks](getting-started/blockchain-networks.md)
-* [Earning Rewards](getting-started/earning-rewards.md)
+* [How to Earn Rewards](getting-started/earning-rewards.md)
+* [How To Withdraw Funds](getting-started/how-to-withdraw-funds.md)
 
 ## Yield Farming: Earn Native Assets
 
 * [How To Stake BIOS](yield-farming-earn-native-assets/pfa.md)
 * [How To Provide Liquidity To 0xNODES Strategies](yield-farming-earn-native-assets/providing-liquidity.md)
 * [More About 0xNODES Strategies](yield-farming-earn-native-assets/native-strategies.md)
-* [How To Withdraw Funds](yield-farming-earn-native-assets/how-to-withdraw-funds.md)
 * [Yield Harvest and Distribution](yield-farming-earn-native-assets/yield-harvest-and-distribution.md)
-* [0xNODES is Cross Chain](yield-farming-earn-native-assets/cross-chain.md)
 
 ## SUBGRAPHS
 
