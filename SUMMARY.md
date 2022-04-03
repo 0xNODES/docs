@@ -13,6 +13,7 @@
 
 * [How Staking BIOS Earns You Native Assets](how-0xnodes-generates-yield/pfa.md)
 * [How 0xNODES Strategies Earn You Native Assets](how-0xnodes-generates-yield/providing-liquidity.md)
+* [0x\_NODES is Cross Chain](how-0xnodes-generates-yield/cross-chain.md)
 * [Yield Harvest and Distribution](how-0xnodes-generates-yield/yield-harvest-and-distribution.md)
 
 ## SUBGRAPHS
