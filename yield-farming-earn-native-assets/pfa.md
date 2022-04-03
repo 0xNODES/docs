@@ -2,11 +2,9 @@
 description: Use the BIOS Protocol Fee Accrual (PFA) System to Earn Native Assets
 ---
 
-# Stake BIOS: Earn Native Assets
+# How Staking BIOS Earns Native Assets
 
-Stake the 0xNODES platform token, $BIOS, on any chain to earn native asset rewards on that chain. For example, connect to the Ethereum network to stake $BIOS and earn $ETH rewards.
-
-To deposit the $BIOS, first connect your wallet to the chain where your $BIOS resides. Click the Deposit button on the [system11.0xnodes.io website](https://system11.0xnodes.io), specify your deposit amount, and approve access to your $BIOS. Then, deposit the $BIOS into the kernel. Note that you can deposit $BIOS and the chain’s native asset at the same time.
+To learn _how_ to stake $BIOS, see [Getting Started](broken-reference).&#x20;
 
 Users who stake $BIOS earn new rewards every time the protocol harvests yield. On a chain-by-chain basis, the protocol’s yield-harvesting processor periodically harvests and liquidates yield accrued from 0xNODES strategies. A portion of the yield collected from every strategy harvested on a chain is rewarded to users who stake $BIOS on that chain (see [Yield Distribution](yield-harvest-and-distribution.md)). Each user’s rewards are proportional to their share of the total amount of $BIOS staked on that chain.
 

@@ -11,7 +11,7 @@
 
 ## Yield Farming: Earn Native Assets
 
-* [How To Stake BIOS](yield-farming-earn-native-assets/pfa.md)
+* [How Staking BIOS Earns Native Assets](yield-farming-earn-native-assets/pfa.md)
 * [How To Provide Liquidity To 0xNODES Strategies](yield-farming-earn-native-assets/providing-liquidity.md)
 * [More About 0xNODES Strategies](yield-farming-earn-native-assets/native-strategies.md)
 * [Yield Harvest and Distribution](yield-farming-earn-native-assets/yield-harvest-and-distribution.md)
