@@ -28,7 +28,7 @@ To provide liquidity, follow these steps:
 
 ### Learn More About How 0xNODES Generates Your Rewards
 
-For more information about staking $BIOS, and providing liquidity, please see the following documentation sections:
+For more information about staking $BIOS, and providing liquidity into 0xNODES strategies, please see the following documentation sections:
 
 {% content-ref url="../how-0xnodes-generates-yield/pfa.md" %}
 [pfa.md](../how-0xnodes-generates-yield/pfa.md)
