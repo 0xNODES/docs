@@ -9,12 +9,11 @@
 * [How to Earn Rewards](getting-started/earning-rewards.md)
 * [How To Withdraw Funds](getting-started/how-to-withdraw-funds.md)
 
-## Yield Farming: Earn Native Assets
+## How 0xNODES Generates Yield
 
-* [How Staking BIOS Earns You Native Assets](yield-farming-earn-native-assets/pfa.md)
-* [How 0xNODES Strategies Earn You Native Assets](yield-farming-earn-native-assets/providing-liquidity.md)
-* [More About 0xNODES Strategies](yield-farming-earn-native-assets/native-strategies.md)
-* [Yield Harvest and Distribution](yield-farming-earn-native-assets/yield-harvest-and-distribution.md)
+* [How Staking BIOS Earns You Native Assets](how-0xnodes-generates-yield/pfa.md)
+* [How 0xNODES Strategies Earn You Native Assets](how-0xnodes-generates-yield/providing-liquidity.md)
+* [Yield Harvest and Distribution](how-0xnodes-generates-yield/yield-harvest-and-distribution.md)
 
 ## SUBGRAPHS
 

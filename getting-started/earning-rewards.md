@@ -32,10 +32,10 @@ To provide liquidity, follow these steps:
 
 For more information about staking $BIOS, and providing liquidity, please see the following documentation sections:
 
-{% content-ref url="../yield-farming-earn-native-assets/pfa.md" %}
-[pfa.md](../yield-farming-earn-native-assets/pfa.md)
+{% content-ref url="../how-0xnodes-generates-yield/pfa.md" %}
+[pfa.md](../how-0xnodes-generates-yield/pfa.md)
 {% endcontent-ref %}
 
-{% content-ref url="../yield-farming-earn-native-assets/providing-liquidity.md" %}
-[providing-liquidity.md](../yield-farming-earn-native-assets/providing-liquidity.md)
+{% content-ref url="../how-0xnodes-generates-yield/providing-liquidity.md" %}
+[providing-liquidity.md](../how-0xnodes-generates-yield/providing-liquidity.md)
 {% endcontent-ref %}
