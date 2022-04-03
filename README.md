@@ -11,6 +11,8 @@
 
 ## Starting on 0xNODES
 
+As a decentralized application, you don't need an account to use 0xNODES. All you need is a crypto wallet.&#x20;
+
 To use the 0xNODES system, you must have:
 
 1. A MetaMask wallet, learn how to set one up [here](getting-started/wallet.md).
