@@ -4,4 +4,4 @@ To withdraw assets, first connect your wallet to the chain where your assets res
 
 To withdraw native assets that are currently invested in strategy, first exit strategy. When you exit the strategy, you can move some or all of your native assets into the kernel. Once your funds are in the kernel, you can choose to withdraw funds into your wallet or to re-invest the funds into another strategy.
 
-To withdraw [$BIOS that have been staked](../yield-farming-earn-native-assets/pfa.md), simply withdraw the assets from the kernel. This will automatically unstake your $BIOS and transfer them to your wallet. Make sure you are connected to the appropriate network. For example, if your $BIOS is staked on Ethereum, connect your wallet to the Ethereum network.
+To withdraw $BIOS that you staked, simply withdraw the assets from the kernel. This will automatically unstake your $BIOS and transfer them to your wallet. Make sure you are connected to the appropriate network. For example, if your $BIOS is staked on Ethereum, connect your wallet to the Ethereum network.
