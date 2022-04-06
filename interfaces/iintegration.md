@@ -11,7 +11,7 @@ An Integration represents a single pool of funds at the system integration level
 {% endhint %}
 
 {% hint style="warning" %}
-The system will recognize an integration implementing `IIntegration by denoting it as pool 0.`
+The system will recognize an integration implementing `IIntegration` by denoting it as poolID 0.
 {% endhint %}
 
 ```
