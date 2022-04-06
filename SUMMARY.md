@@ -24,6 +24,11 @@
 * [Kernel Addresses](contracts/kernel-addresses.md)
 * [Other Contracts](contracts/other-contracts.md)
 
+## Interfaces
+
+* [IIntegration](interfaces/iintegration.md)
+* [IAMMIntegration](interfaces/iammintegration.md)
+
 ## Moving BIOS Between Chains
 
 * [How to move your BIOS to the Polygon Network](moving-bios-between-chains/how-to-move-your-bios-to-the-polygon-network.md)
