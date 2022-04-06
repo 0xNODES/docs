@@ -56,7 +56,3 @@
 | User Positions      | [0x2a5352C810D0C1cC1e907Db0552459B46a82433B](https://andromeda-explorer.metis.io/address/0x2a5352C810D0C1cC1e907Db0552459B46a82433B/transactions)  |
 | Integration: Hermes | [0xf75b6c8f450F4A28fd48Ec31f51D0Ca7d7113f0f](https://andromeda-explorer.metis.io/address/0xf75b6c8f450F4A28fd48Ec31f51D0Ca7d7113f0f/transactions)  |
 | Yield Manager       | [0x34B41c2BEb2d5BA75cfd78047908f22F79468104](https://andromeda-explorer.metis.io/address/0x34B41c2BEb2d5BA75cfd78047908f22F79468104)               |
-
-### Arbitrum
-
-coming soon...
