@@ -11,6 +11,6 @@ The protocol distributes yield into four proportions, based on distribution weig
 1. Strategy Rewards: % of yield distributed to the holders of a given strategy, in the form of native assets. _Users who deposit native assets into strategies receive the largest proportion of the yield._
 2. BIOS Protocol Fee Accrual (PFA): % of yield distributed to $BIOS stakers on the current chain, in the form of native assets.
 3. BIOS buyback: % of yield used to the market buy of $BIOS&#x20;
-4. Treasury Account: % of yield used to cover gas for system transactions, future development and maintenance of the platform, and investment losses so users can withdraw their full principal.
+4. Treasury Account: % of yield used to cover gas for system transactions, future development and maintenance of the platform, and investment losses as indicated.
 
 Distribution weights vary based on market conditions; users can view current weights on the [0xNODES website](https://system11.0xnodes.io) or by querying the getEthDistributionWeights ABI methods of the chain's [Yield Manager contract](../contracts/other-contracts.md).
