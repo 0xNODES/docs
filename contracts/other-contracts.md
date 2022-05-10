@@ -8,6 +8,7 @@
 | User Positions           | [0x66d430Fd4B66e306132fe97723a6d55BAA404d2c](https://etherscan.io/address/0x66d430Fd4B66e306132fe97723a6d55BAA404d2c) |
 | Integration: SushiSwapV1 | [0x090A0fb9248AEA544FbDC5b4c16A4E275D5A5BF7](https://etherscan.io/address/0x090A0fb9248AEA544FbDC5b4c16A4E275D5A5BF7) |
 | Integration: SushiSwapV2 | [0x721159910b5BABF44BBE5e82Ed5818852586B783](https://etherscan.io/address/0x721159910b5BABF44BBE5e82Ed5818852586B783) |
+| Integration: DRO         | [0x536754f23db8F989Af68462D922FA6FD2Fdf0A5D](https://etherscan.io/address/0x536754f23db8f989af68462d922fa6fd2fdf0a5d) |
 | Yield Manager            | [0xa558Ba0b4D55e0c6ce81ea309c16528Ed2C803C9](https://etherscan.io/address/0xa558Ba0b4D55e0c6ce81ea309c16528Ed2C803C9) |
 
 ### Polygon
