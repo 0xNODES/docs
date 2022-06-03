@@ -15,6 +15,7 @@
 * [How 0xNODES Strategies Earn You Native Assets](how-0xnodes-generates-yield/providing-liquidity.md)
 * [Yield Harvest and Distribution](how-0xnodes-generates-yield/yield-harvest-and-distribution.md)
 * [Strategy Rebalances](how-0xnodes-generates-yield/strategy-rebalances.md)
+* [Vault Factories](how-0xnodes-generates-yield/vault-factories.md)
 
 ## SUBGRAPHS
 
